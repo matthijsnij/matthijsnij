@@ -1,4 +1,4 @@
-# [Matthijs Nijeboer]
+# Matthijs Nijeboer
 
 Econometrics graduate. My interests lie in the general quant space, mathematics, logic, machine learning, algorithmic trading, health and movement.
 
