@@ -12,6 +12,11 @@ R code accompanying my master's thesis "S-MPBART: Soft Multinomial Probit Bayesi
 **[algotrading-infra](https://github.com/matthijsnij/algotrading-infra)**
 Modular algorithmic trading framework, built in Python.
 
+**[math](https://github.com/matthijsnij/math)**
+Repository contains:
+1. QQ app for practicing math, statistics, probability and more.
+2. Scripts for practicing number sequences and decimal arithmetics.
+
 **[FocusTube](https://github.com/matthijsnij/FocusTube)**
 Distraction-free YouTube search interface built on the YouTube Data API. FocusTube is a web application built with HTML, CSS and JavaScript.
 
