@@ -6,7 +6,7 @@ Econometrics graduate. My interests lie in the general quant space, mathematics,
 
 ## Projects
 
-**[thesis_code](https://github.com/[username]/thesis_code)**
+**[thesis_code](https://github.com/matthijsnij/thesis_code)**
 R code accompanying my master's thesis "S-MPBART: Soft Multinomial Probit Bayesian Additive Regression Trees". 
 
 **[algotrading-infra](https://github.com/matthijsnij/algotrading-infra)**
